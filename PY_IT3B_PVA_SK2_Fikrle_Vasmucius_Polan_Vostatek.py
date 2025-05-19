@@ -11,7 +11,7 @@ clock = pygame.time.Clock()
 # Základní nastavení
 width, height = 1800, 900
 screen = pygame.display.set_mode((width, height), pygame.RESIZABLE)
-pygame.display.set_caption("Flappy Bird - 3 hráči")
+pygame.display.set_caption("Flapperbirds3")
 is_fullscreen = False
 
 # Barvy
