@@ -14,7 +14,7 @@ Ve hře Flapperbirds3 ovládáte jednoho ze tří ptáků, kteří se snaží vy
 
 ## 🎮 Hlavní vlastnosti
 
-- **Multiplayer**: Až tři hráči na jedné klávesnici.
+- **Multiplayer**: Tři hráči na jedné klávesnici.
 - **Jednoduché ovládání**: Skok klávesami A, V, M.
 - **Dynamické překážky**: Náhodně generované trubky.
 - **Responzivní design**: Podpora různých rozlišení obrazovky.
