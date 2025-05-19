@@ -38,7 +38,7 @@ Ve hře Flapperbirds3 ovládáte jednoho ze tří ptáků, kteří se snaží vy
    - `player1.png`
    - `player2.png`
    - `player3.png`
-   (Pokud chybí, nahrajte placeholder obrázky z adresáře `/assets`.)
+   (Pokud chybí, nahrajte placeholder obrázky z adresáře.)
 
 ## 🚀 Spuštění hry
 
@@ -77,34 +77,19 @@ Ve hře Flapperbirds3 ovládáte jednoho ze tří ptáků, kteří se snaží vy
 ![Hlavní obrazovka](screenshots/main_screen.png)
 ![Leaderboard](screenshots/leaderboard.png)
 
-## 🤝 Přispění
-
-Vítáme jakékoli příspěvky! Pokud chcete přidat nové funkce nebo opravit chyby:
-1. Forkněte tento repozitář.
-2. Vytvořte novou větev (`git checkout -b feature/nova-funkce`).
-3. Commitněte změny (`git commit -m 'Přidána nová funkce'`).
-4. Pushněte do větve (`git push origin feature/nova-funkce`).
-5. Vytvořte Pull Request.
-
 ## 📜 Licence
 
 Tento projekt je šířen pod [MIT licencí](LICENSE).
 
-## 👥 Autoři
-
-**Tým SkyCoders**  
-- Email: example@email.com  
-- GitHub: [username](https://github.com/username)
-
 ## 🔗 Odkazy
 
-- **Stáhněte hru**: [GitHub Releases](https://github.com/username/flapperbirds3/releases)
-- **QR kód**: [Odkaz na hru](https://github.com/username/flapperbirds3/raw/main/screenshots/qr_code.png)
+- **Stáhněte hru**: [GitHub Releases](https://github.com/VitaPhoneCZ/FlapperBirds3/releases/)
 
 ## 🙏 Poděkování
 
 Děkujeme všem, kdo hru vyzkoušeli a poskytli zpětnou vazbu! Inspirací nám byla klasická hra Flappy Bird a komunita open-source vývojářů.
 
 ---
+**Tým FVPV**  ¨
 
 ⭐ **Líbí se vám Flapperbirds3? Dejte nám hvězdičku na GitHubu!** ⭐
