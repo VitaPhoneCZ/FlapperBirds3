@@ -1,6 +1,6 @@
 # Flapperbirds3
 
-![Flapperbirds3 Gameplay](screenshots/gameplay_screenshot.png)
+![Flapperbirds3 Poster](screenshots/Poster.png)
 
 **Flapperbirds3** je návyková multiplayerová arkádová hra inspirovaná klasickou hrou Flappy Bird, kde tři hráči soutěží o nejvyšší skóre prolétáváním mezi trubkami na jedné klávesnici!
 
@@ -75,6 +75,7 @@ Ve hře Flapperbirds3 ovládáte jednoho ze tří ptáků, kteří se snaží vy
 ## 📸 Screenshoty
 
 ![Hlavní obrazovka](screenshots/main_screen.png)
+![Gameplay](screenshots/gameplay_screenshot.png)
 ![Leaderboard](screenshots/leaderboard.png)
 
 ## 🔗 Odkazy
