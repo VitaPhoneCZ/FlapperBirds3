@@ -77,10 +77,6 @@ Ve hře Flapperbirds3 ovládáte jednoho ze tří ptáků, kteří se snaží vy
 ![Hlavní obrazovka](screenshots/main_screen.png)
 ![Leaderboard](screenshots/leaderboard.png)
 
-## 📜 Licence
-
-Tento projekt je šířen pod [MIT licencí](LICENSE).
-
 ## 🔗 Odkazy
 
 - **Stáhněte hru**: [GitHub Releases](https://github.com/VitaPhoneCZ/FlapperBirds3/releases/)
