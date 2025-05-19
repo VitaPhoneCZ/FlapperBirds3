@@ -31,7 +31,7 @@ Ve hře Flapperbirds3 ovládáte jednoho ze tří ptáků, kteří se snaží vy
 3. **Stáhněte repozitář**:
    - Klikněte na tlačítko "Code" a stáhněte ZIP, nebo použijte:
      ```bash
-     git clone https://github.com/username/flapperbirds3.git
+     git clone https://github.com/VitaPhoneCZ/FlapperBirds3.git
      ```
 4. **Zkontrolujte obrázky**: Ujistěte se, že v adresáři hry jsou soubory:
    - `background.png`
@@ -44,11 +44,11 @@ Ve hře Flapperbirds3 ovládáte jednoho ze tří ptáků, kteří se snaží vy
 
 1. Přejděte do adresáře hry:
    ```bash
-   cd flapperbirds3
+   cd FlapperBirds3
    ```
 2. Spusťte hru:
    ```bash
-   python flapperbirds3.py
+   python PY_IT3B_PVA_SK2_Fikrle_Vasmucius_Polan_Vostatek.py
    ```
 3. Stiskněte **Esc** pro zahájení hry.
 
